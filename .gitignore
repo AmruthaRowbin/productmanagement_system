@@ -2,7 +2,7 @@
 node_modules/
 
 # Ignore configuration files
-*.env       # For environment variables
+.env       # For environment variables
 config/     # If you have a config folder
 
 # Ignore package files
