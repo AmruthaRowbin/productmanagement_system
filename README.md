@@ -1,4 +1,5 @@
 Product Management Application
+
 This is a simple Product Management application built using Node.js, Express, and MongoDB. The application allows you to manage users, categories, subcategories, products, and a wishlist.
 Features
 User Management: User authentication and authorization using JWT.
