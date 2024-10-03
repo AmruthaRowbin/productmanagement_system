@@ -1,0 +1,12 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore configuration files
+.env       # For environment variables
+config/     # If you have a config folder
+
+# Ignore package files
+package.json
+package-lock.json
+
+# Ignore any other files or folders as needed

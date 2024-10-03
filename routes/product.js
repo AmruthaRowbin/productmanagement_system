@@ -5,8 +5,10 @@ const { addProduct, getProducts ,editProduct} = require('../controllers/productC
 // Add Product Route
 router.post('/addproduct', addProduct);
 
-// Get All Products Route
+// Get Products with optional subcategory filtering
 router.get('/getproduct', getProducts);
+
+
 
 router.put('/:id', editProduct);
 
